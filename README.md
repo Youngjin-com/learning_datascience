@@ -223,7 +223,6 @@
 ## 💡문의 및 정오표
 - [문의](mailto:Support@youngjin.com)
 - [정오표](https://www.youngjin.com/Artyboard/mboard.asp?strBoardID=errata)
-- 깃허브 리파지토리 [issue 생성](https://github.com/Youngjin-com/learning_datascience/issues/new)
 
 # Learning Data Science
 
